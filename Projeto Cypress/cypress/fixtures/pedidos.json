@@ -1,0 +1,26 @@
+[
+  {
+      "quantidade": 3,
+      "produto": "Cassius Sparring Tank",
+      "size": "S",
+      "cor": "Black",
+      "page": 3      
+  },
+
+  {
+      "quantidade": 2,
+      "produto": "Cassius Sparring",
+      "size": "S",
+      "cor": "Red"  ,
+      "page": 2          
+  },
+
+  {
+      "quantidade": 1,
+      "produto": "Arcadio Gym Short",
+      "size": "33",
+      "cor": "Red" ,
+      "page": 2      
+      
+  }
+]
