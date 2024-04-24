@@ -1,5 +1,5 @@
 {
-  "name": "tcc-ebac-qe",
+  "name": "tcc-ebac",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/alexgrocha/TCC-EBAC-QE/issues"
   },
-  "homepage": "https://github.com/alexgrocha/TCC-EBAC-QE#readme"
+  "homepage": "https://github.com/alexgrocha/TCC-EBAC-QE#readme",
+  "dependencies": {
+    "join": "^3.0.0",
+    "mocha": "^10.4.0",
+    "mochawesome-merge": "^4.3.0",
+    "mochawesome-report-generator": "^6.2.0"
+  }
 }
